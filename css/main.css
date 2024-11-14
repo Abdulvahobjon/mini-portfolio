@@ -734,16 +734,17 @@
     font-weight: 500;
     line-height: 25.6px;
     text-align: left;
-    color: #C7C7C7;    
+    color: #C7C7C7;
     margin-top: auto;
 }
+
 .connect-person-name-2 {
     font-family: Manrope;
     font-size: 16px;
     font-weight: 500;
     line-height: 25.6px;
     text-align: left;
-    color: #C7C7C7;    
+    color: #C7C7C7;
     margin-top: auto;
     display: none;
 }
@@ -760,13 +761,15 @@
         grid-template-columns: 1fr;
         gap: 64px;
     }
-.connect-person-name {
-    display: none;
-}
-.connect-person-name-2 {
-    display: block;
-    padding-top: 56px;
-}
+
+    .connect-person-name {
+        display: none;
+    }
+
+    .connect-person-name-2 {
+        display: block;
+        padding-top: 56px;
+    }
 
     .contact-title {
         font-size: 43px;
